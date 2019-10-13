@@ -1,0 +1,3 @@
+In order to use...
+
+please change your browsers save file location to be the imageCaptures folder in this folder.
