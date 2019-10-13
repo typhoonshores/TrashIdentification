@@ -1,0 +1,124 @@
+div.b1{
+  width: 80%;
+  padding: 1em;
+  border-radius: 0.5em;
+  background-color: lightblue;
+  border-style: solid;
+  border-width: medium;
+  margin: auto;
+  text-align: center;
+}
+div.inline-block-left{
+  display: inline-block;
+  text-align: left;
+  cursor: pointer;
+  position: absolute;
+}
+div.inline-block-middle{
+  display: inline-block;
+  text-align: center;
+}
+div.inline-block-right{
+  display: inline-block;
+  text-align: right;
+  margin-left: 10%;
+  cursor: pointer;
+}
+h1 {
+  text-shadow:
+    1.4px 1.4px 0 #ffffff,
+		1.6px 1.6px 0 #ffffff,
+		1.8px 1.8px 0 #ffffff,
+		2px 2px 0 #ffffff,
+		2.2px 2.2px 0 #ffffff,
+		2.4px 2.4px 0 #ffffff,
+		2.6px 2.6px 0 #ffffff,
+		2.8px 2.8px 0 #ffffff,
+		3px 3px 0 #ffffff,
+		3.2px 3.2px 0 #ffffff,
+		3.4px 3.4px 0 #ffffff,
+		3.6px 3.6px 0 #ffffff,
+		3.8px 3.8px 0 #ffffff,
+		4px 4px 0 #ffffff,
+		4.2px 4.2px 0 #ffffff,
+		4.4px 4.4px 0 #ffffff,
+		4.6px 4.6px 0 #ffffff,
+		4.8px 4.8px 0 #ffffff,
+		5px 5px 0 #ffffff,
+		5.2px 5.2px 0 #ffffff,
+		5.4px 5.4px 0 #ffffff,
+		5.6px 5.6px 0 #ffffff,
+		5.8px 5.8px 0 #ffffff,
+		6px 6px 0 #ffffff,
+		6.2px 6.2px 0 #ffffff,
+		6.4px 6.4px 0 #ffffff,
+		6.6px 6.6px 0 #ffffff,
+		6.8px 6.8px 0 #ffffff,
+		7px 7px 0 #ffffff,
+		7.2px 7.2px 0 #ffffff,
+		7.4px 7.4px 0 #ffffff,
+		7.6px 7.6px 0 #ffffff,
+		7.8px 7.8px 0 #ffffff,
+		8px 8px 0 #ffffff,
+		8.2px 8.2px 0 #ffffff,
+		8.4px 8.4px 0 #ffffff,
+		8.6px 8.6px 0 #ffffff,
+		8.8px 8.8px 0 #ffffff,
+		9px 9px 0 #ffffff,
+		9.2px 9.2px 0 #ffffff,
+		9.4px 9.4px 0 #ffffff,
+		9.6px 9.6px 0 #ffffff,
+		9.8px 9.8px 0 #ffffff,
+		10px 10px 0 #ffffff;
+}
+h1 {
+	color: #303030;
+	font-size: 100px;
+  line-height: 1;
+  text-align: center;
+  transform: translateY(-50%);
+  display: inline;
+}
+img {
+  padding: 0.5em;
+  border-radius: 50%;
+  border-radius: 0.25em;
+  border-style: solid;
+  border-width: medium;
+}
+html {
+  scroll-behavior: smooth;
+ }
+input{
+  padding: 0.5em;
+  border-radius: 50%;
+  border-radius: 0.25em;
+  border-style: solid;
+  border-width: medium;
+}
+video{
+  position: relative;
+}
+.button {
+  background-color: #4682B4; /* Blue */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.booth{
+  width: 80%;
+  padding: 60px 0px;
+  border-radius: 0.5em;
+  background: #aaa;
+  border: 10px solid #ccc;
+  margin:0 auto;
+}
+.imageBtn{
+    position: absolute;
+      z-index: 1;
+}
